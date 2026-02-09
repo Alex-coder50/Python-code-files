@@ -1,0 +1,5 @@
+print("Hi welcome to second python lesson!")
+print(27)
+print("normal python",54)
+print("We learned about identifiers! \n")
+print("And some basics rules",end="*")
